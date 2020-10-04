@@ -1,7 +1,7 @@
 {
-  "name": "npm-typescript-package-template",
+  "name": "fetch-from-script-tag",
   "version": "0.0.0",
-  "description": "A template for easy creation of new NPM packages",
+  "description": "A very simple library meant to be used as a script tag from CDN, to make any api call on any webpage, quickly and easily.",
   "main": "dist/index.js",
   "source": "src/index.ts",
   "module": "dist/index.m.js",
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkershner6/npm-typescript-package-template.git"
+    "url": "git+https://github.com/dkershner6/fetch-from-script-tag.git"
   },
   "keywords": [],
   "author": "Derek Kershner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dkershner6/npm-typescript-package-template/issues"
+    "url": "https://github.com/dkershner6/fetch-from-script-tag/issues"
   },
-  "homepage": "https://github.com/dkershner6/npm-typescript-package-template#readme",
+  "homepage": "https://github.com/dkershner6/fetch-from-script-tag#readme",
   "devDependencies": {
     "@types/jest": "^26.0.4",
     "@types/node": "^14.0.22",
