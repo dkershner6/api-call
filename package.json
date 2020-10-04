@@ -1,6 +1,6 @@
 {
   "name": "fetch-from-script-tag",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A very simple library meant to be used as a script tag from CDN, to make any api call on any webpage, quickly and easily.",
   "main": "dist/index.js",
   "source": "src/index.ts",
